@@ -23,6 +23,7 @@ São Paulo-North, 2031. Kael Nouri ships fitness software for the acceleration. 
 | [07](chapters/07-the-slope.md) | The Slope | 2026-10-06 |
 | [08](chapters/08-the-weight.md) | The Weight | 2026-10-12 |
 | [09](chapters/09-the-guard.md) | The Guard | 2026-10-19 |
+| [10](chapters/10-the-pointer.md) | The Pointer | 2026-11-16 |
 
 ---
 
